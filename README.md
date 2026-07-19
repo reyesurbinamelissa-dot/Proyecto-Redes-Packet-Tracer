@@ -12,7 +12,7 @@
 | Recurso | Enlace |
 |---------|--------|
 | **Google Drive (archivos .pkt)** | https://drive.google.com/drive/folders/1PaEpVzmUqNdhtyv2Y-qw4PbaLgGknbxP?usp=sharing |
-| **GitHub (instrucciones)** | [https://github.com/tu-usuario/Proyecto-Redes-Packet-Tracer](https://github.com/reyesurbinamelissa-dot/Proyecto-Redes-Packet-Tracer/blob/main/README.md) |
+| **GitHub (instrucciones)** | (https://github.com/reyesurbinamelissa-dot/Proyecto-Redes-Packet-Tracer/blob/main/README.md) |
 
 > **Nota:** No necesitan cuenta de Google para entrar a la carpeta de Drive. Solo hagan clic en el enlace.
 
