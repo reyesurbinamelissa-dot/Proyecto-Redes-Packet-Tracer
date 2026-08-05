@@ -46,7 +46,7 @@
 4. **Agrega 3 PCs**:
    - Abajo a la izquierda → "End Devices" → "PC".
    - Arrástralas 3 veces.
-5. **Conecta las PCs con cable naranja "Copper Straight-Through"**:
+5. **Conecta las PCs con cable "Copper Cross-Over"**:
    - PC Panamá → FastEthernet0 → Router Panamá → FastEthernet0/0
    - PC Honduras → FastEthernet0 → Router Honduras → FastEthernet0/0
    - PC Belice → FastEthernet0 → Router Belice → FastEthernet0/0
@@ -163,7 +163,7 @@ exit
    - Router0 → **Costa Rica**
    - Router1 → **Nicaragua**
    - Router2 → **El Salvador**
-3. **Agrega 3 PCs** y conéctalas con cable naranja:
+3. **Agrega 3 PCs** y conéctalas con cable Copper Cross-Over:
    - PC Costa Rica → FastEthernet0 → Router Costa Rica → FastEthernet0/0
    - PC Nicaragua → FastEthernet0 → Router Nicaragua → FastEthernet0/0
    - PC El Salvador → FastEthernet0 → Router El Salvador → FastEthernet0/0
