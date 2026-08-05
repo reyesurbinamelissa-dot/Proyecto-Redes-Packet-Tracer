@@ -249,6 +249,9 @@ exit
 
 ✅ **YOSELIN HA TERMINADO.**
 
+<img width="951" height="596" alt="image" src="https://github.com/user-attachments/assets/6f66117e-ea16-4b9b-9cc8-3bbfc4b61d4b" />
+
+
 ---
 
 # 🥉 EMMANUEL (TERCERO - ÚLTIMO)
